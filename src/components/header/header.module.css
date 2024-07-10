@@ -1,0 +1,44 @@
+.wpx70 {
+  height: 90%;
+  width: auto;
+}
+.imgcontainer {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quantity {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  height: 20px;
+  width: 20px;
+  padding: 3px;
+  display: flex;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+}
+.quant {
+  border-radius: 50%;
+  color: #d1411e;
+  background-color: white;
+  height: 20px;
+  padding: 3px;
+  margin-left: -10px;
+  display: flex;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+}
+.leftbrand a {
+  padding: 0;
+  margin: 0;
+}
+.leftbrand {
+  padding: 0;
+  margin: 0;
+}
